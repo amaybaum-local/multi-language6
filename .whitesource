@@ -1,7 +1,4 @@
 {
-  "settingsInheritedFrom": "amaybaum-local/whitesource-config@main",
-  "scanSettings": {
-    "enableReachability": true
-  }
+  "settingsInheritedFrom": "amaybaum-local/whitesource-config@main"
 }
 
